@@ -39,4 +39,4 @@ Mi portfolio reúne proyectos prácticos de ingeniería de datos, procesamiento 
 ### 💼 Portfolio y contacto
 
 - **Web:** [luispastor.dev](https://luispastor.dev)
-- **GitHub:** [github.com/lpastor75](https://github.com/lpastor75)
+- **Portfolio:** [github.com/lpastor75/InsightLab-Portfolio](https://github.com/lpastor75/InsightLab-Portfolio)
