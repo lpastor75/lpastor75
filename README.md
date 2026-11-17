@@ -16,11 +16,11 @@ Mi portfolio reúne proyectos prácticos de ingeniería de datos, procesamiento 
 
 ### 🖥️ Tecnologías
 
-**Lenguajes y análisis:** Python, SQL, Pandas, NumPy, Scikit-learn.
+**Lenguajes y análisis:** Python, SQL, Pandas, PySpark, Scikit-learn.
 
 **Cloud y desarrollo:** AWS, Lambda, S3, API Gateway, DynamoDB, Git, GitHub Actions.
 
-**Bases de datos y visualización:** MongoDB, InfluxDB, Grafana.
+**Bases de datos y visualización:** InfluxDB, MongoDB, Grafana, Amazon QickSight
 
 ### 🚀 Proyectos destacados
 
