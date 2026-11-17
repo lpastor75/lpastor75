@@ -27,6 +27,7 @@ Mi portfolio reúne proyectos prácticos de ingeniería de datos, procesamiento 
 **Data Engineering**
 - [Electric Demand Spain](https://github.com/lpastor75/InsightLab-Portfolio/tree/main/electric-demand-spain): pipeline de ingestión y análisis de demanda eléctrica, almacenamiento de series temporales y predicción.
 - [Movie Data Enrichment Pipeline](https://github.com/lpastor75/InsightLab-Portfolio/tree/main/Movie-data-enrichment-pipeline): integración y enriquecimiento de datos mediante APIs externas y MongoDB.
+- [Amazon Reviews Data Pipeline](https://github.com/lpastor75/InsightLab-Portfolio/tree/main/Amazon-Reviews-Data-Pipeline): procesamiento distribuido batch y streaming con Apache Spark, aprendizaje automático e integración de servicios AWS.
 
 **Cloud Engineering**
 - [Cloud Resume Challenge](https://github.com/lpastor75/cloud-resume): aplicación serverless desplegada en AWS con S3, CloudFront, Lambda, API Gateway y DynamoDB.
