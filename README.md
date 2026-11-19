@@ -20,7 +20,7 @@ Mi portfolio reúne proyectos prácticos de ingeniería de datos, procesamiento 
 
 **Cloud y desarrollo:** AWS, Lambda, S3, API Gateway, DynamoDB, Git, GitHub Actions.
 
-**Bases de datos y visualización:** InfluxDB, MongoDB, Grafana, Amazon QickSight
+**Bases de datos y visualización:** InfluxDB, MongoDB, Grafana, Amazon QuickSight
 
 ### 🚀 Proyectos destacados
 
